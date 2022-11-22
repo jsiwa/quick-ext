@@ -1,6 +1,6 @@
 {
-  "name": "vitesse-webext",
-  "displayName": "Vitesse WebExt",
+  "name": "quick-ext",
+  "displayName": "Quick Ext",
   "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@7.8.0",
